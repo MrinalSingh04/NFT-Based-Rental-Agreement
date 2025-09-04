@@ -11,7 +11,7 @@ Rent payments and security deposits are managed transparently on-chain, reducing
 ---   
        
 ## ❓ What is this project?   
-
+ 
 ✨ A **smart contract** written in Solidity (`^0.8.25`).    
 🔗 Uses **OpenZeppelin Contracts** for ERC-721 and ownership management.  
 👨‍💼 **Landlord** creates a lease → 👩‍💻 **Renter** signs → 🎟️ NFT minted as proof.  
