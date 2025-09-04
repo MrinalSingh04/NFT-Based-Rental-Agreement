@@ -9,7 +9,7 @@ Each lease is represented by a unique NFT that is time-bound and linked to speci
 Rent payments and security deposits are managed transparently on-chain, reducing disputes and middlemen.
 
 ---   
-       
+        
 ## ❓ What is this project?   
  
 ✨ A **smart contract** written in Solidity (`^0.8.25`).    
