@@ -8,7 +8,7 @@ It leverages **ERC-721 NFTs** as **digital proof of lease** between a landlord a
 Each lease is represented by a unique NFT that is time-bound and linked to specific rental terms.  
 Rent payments and security deposits are managed transparently on-chain, reducing disputes and middlemen.
 
----  
+---   
        
 ## ❓ What is this project?   
 
