@@ -1,7 +1,7 @@
 # 🏠 NFT-Based Rental Agreement
 
 ## 📌 Overview 
-
+ 
 This project implements a **Rental Agreement Smart Contract** on Ethereum (or any EVM-compatible blockchain).  
 It leverages **ERC-721 NFTs** as **digital proof of lease** between a landlord and a renter.
  
