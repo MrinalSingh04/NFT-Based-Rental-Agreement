@@ -4,7 +4,7 @@
 
 This project implements a **Rental Agreement Smart Contract** on Ethereum (or any EVM-compatible blockchain).  
 It leverages **ERC-721 NFTs** as **digital proof of lease** between a landlord and a renter.
-
+ 
 Each lease is represented by a unique NFT that is time-bound and linked to specific rental terms.  
 Rent payments and security deposits are managed transparently on-chain, reducing disputes and middlemen.
 
